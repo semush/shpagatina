@@ -9,12 +9,12 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: '7fonts.ru_YIKES!__';
-  font-size: 4.25rem;
+  font-family: 'font1';
+  font-size: 5.2rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 8.32rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -55,9 +55,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.16rem;
+    font-size: calc( 2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1090,7 +1090,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #cccccc !important;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/-1600x584.png");
@@ -1106,7 +1106,7 @@ section.lazy-placeholder:after {
 .cid-rMpN2n9mmL {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/11-865x220.png");
+  background-image: url("../../../assets/images/-1920x969.png");
 }
 .cid-rMpN2n9mmL .mbr-section-btn > * {
   margin: 0;
@@ -1176,6 +1176,10 @@ section.lazy-placeholder:after {
 }
 .cid-rMpN2n9mmL H2 {
   text-align: left;
+  color: #efefef;
+}
+.cid-rMpN2n9mmL .text1 {
+  color: #232323;
 }
 .cid-rMpXvz3BSB {
   padding-top: 90px;
